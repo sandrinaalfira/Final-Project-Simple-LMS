@@ -1,9 +1,15 @@
 laporan Final Project
+
 Identitas
+
 Nama: Sandrina Alfira Deanova
 NIM: A11.2023.14975
 Kelas: A11.4602
+
+
 URL Repository: https://github.com/sandrinaalfira/Final-Project-Simple-LMS.git
+
+
 Deskripsi Project
 Simple LMS (Learning Management System) adalah platform pembelajaran digital terpadu berbasis API yang dirancang untuk menjembatani interaksi akademik antara pengajar dan siswa secara terstruktur dan efisien. Sistem memfasilitasi peran Administrator, Instruktur (pembuat materi), dan Siswa (mengikuti materi & mendapatkan sertifikat).
 
