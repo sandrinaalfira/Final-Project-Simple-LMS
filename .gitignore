@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+celery_logs.txt
+db.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# Excluded by user for Final Project
+*.pdf
+*.docx
+*.doc
+
+# Security
+.env
